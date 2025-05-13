@@ -13,7 +13,7 @@ showAuthorsBadges : false
 # About Elianne Mejia
 
 ## Intro 
-My name is Elianne and I'm from Pennsylvania. I am currently a third year Computer Science major with **software** concentration at Northeastern University. 
+My name is Elianne and I'm from Pennsylvania. I am currently a third year *Computer Science* major with **software** concentration at Northeastern University. 
 
 ## Favorite Albums 
 - Lust for Life by Lana Del Rey
